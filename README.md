@@ -17,7 +17,7 @@ En este taller se evalúan las clases 7 y 8 del curso. Se presentan 2 tipos de t
 
 * En las primeras líneas del script debe escribir su nombre, código y la versión de R sobre la que está trabajando.
 
-* Para este taller solo puede usar las librerías `pacman`, `rio` y `tidyverse`
+* Para este taller debe usar almenos las librerías `pacman`, `rio` y `tidyverse`
 
 
 <!----------------------------------------------------------------------------->
