@@ -1,6 +1,6 @@
 ---
 title: "Taller de R: Estadística y Programación"
-author: "Taller 2"
+author: "Brayan Laverde (202013972) - Philip Ramirez - Isabela Arcila"
 date: "Abril 26 de 2022"
 output: pdf_document
 ---
@@ -45,27 +45,6 @@ En este taller se evalúan las clases 7 y 8 del curso. Se presentan 2 tipos de t
 ## 2. Funciones
 
 **2.0. Crear función:** Cree una función que extraiga de un dataframe dentro de $chip$, el valor *PAGOS(Pesos)* para la categoría *EDUCACION*. Asegúrese de extraer el *código DANE* del municipio y el *periodo* de la información.
-
-<!------------------->
-## 3. Familia Apply
-
-3.0. Aplique la función creada en el punto anterior a todos los elementos de la lista $chip$.
-
-
-<!----------------------------------------------------------------------------->
-# Taller B
-
-<!------------------->
-## 1.Loops 
-
-**1.0. Crear lista:** Cree un objeto tipo lista vacío, llámelo $chip$.
-
-**1.1. Importar datos:** Use un loop para importar cada archivo **.xlsx** de $data/imput$ en un elemento/posición diferente de $chip$. Esta lista debería 80 elementos (dataframes de la base de datos CHIP -Consolidador de Haciendas e información Pública- para los años 2017, 2018, 2019 y 2020).
-
-<!------------------->
-## 2. Funciones
-
-**2.0. Crear función:** Cree una función que extraiga de un dataframe dentro de $chip$, el valor *PAGOS(Pesos)* para la categoría *EDUCACION*. Asegúrese de extraer el *código DANE* del municipio y el *periodo* de la información. Asegúrese de agregar un argumento adicional a la función que le permita cambiar la categoría para la que desea extraer el valor de *PAGOS(Pesos)*.
 
 <!------------------->
 ## 3. Familia Apply
